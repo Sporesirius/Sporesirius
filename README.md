@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [UniSpy Network](https://github.com/GameProgressive/UniSpyServer)
 
-- 📫 How to reach me **sporesirius@pm.me or Sporesirius#1337 (Discord)**
+- 📫 How to reach me **sporesirius+github+public@pm.me or Sporesirius#1337 (Discord)**
 
 
 <h3 align="left">Languages and Tools:</h3>
