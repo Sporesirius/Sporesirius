@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [UniSpy Network](https://github.com/GameProgressive/UniSpyServer)
 
-- 🌱 I’m currently learning **C++**
-
 - 📫 How to reach me **sporesirius@pm.me or Sporesirius#1337 (Discord)**
 
 
